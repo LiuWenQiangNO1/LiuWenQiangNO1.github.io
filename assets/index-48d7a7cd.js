@@ -1,0 +1,1 @@
+import{d as s,c as r,a as t,u,o as a}from"./index-cc625157.js";const i=s({__name:"index",setup(c){const n=u(),o=()=>{n.push({path:"/user",query:{id:111}})};return(l,e)=>(a(),r("div",null,[e[0]||(e[0]=t("p",null,"主页",-1)),t("button",{onClick:o},"点击")]))}});export{i as default};
