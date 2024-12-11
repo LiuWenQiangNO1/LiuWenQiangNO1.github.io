@@ -19,4 +19,8 @@ const onClickBtn = () => {
 };
 </script>
 
-<style scoped></style>
+<style scoped lang="scss">
+div {
+  background: pink;
+}
+</style>
